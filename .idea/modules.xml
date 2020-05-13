@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hourglass.iml" filepath="$PROJECT_DIR$/Hourglass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="app_hourglass/app" />
+      <module fileurl="file://$PROJECT_DIR$/app_hourglass.iml" filepath="$PROJECT_DIR$/app_hourglass.iml" group="app_hourglass" />
     </modules>
   </component>
 </project>
